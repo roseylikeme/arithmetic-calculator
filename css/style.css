@@ -21,6 +21,10 @@ body, html {
     box-shadow: 2px 4px 16px rgba(0,0,0,.2);
 }
 
+.answer {
+    padding-left: 15px;
+}
+
 h1 {
     font-size: 48px;
     color:rgb(80, 0, 16);
